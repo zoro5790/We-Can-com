@@ -1,0 +1,8 @@
+{
+  "name": "We Can",
+  "description": "منصة تعليمية ذكية للمنهج السوداني مع أدوات الذكاء الاصطناعي",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
